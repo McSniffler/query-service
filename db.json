@@ -1,0 +1,58 @@
+{
+  "postcodeLocations": [
+    {
+      "id": 9999,
+      "postcode": "BT43 6JQ",
+      "outcode": "Test Outcode",
+      "incode": "Test Incode",
+      "quality": 1,
+      "eastings": 310244,
+      "northings": 404838,
+      "country": "Test Country",
+      "nhsHealthAuthority": "Test Health Authority",
+      "adminDistrict": "Test District",
+      "adminWard": "Test Ward",
+      "longitude": -9999,
+      "latitude": 9999,
+      "parliamentaryConstituency": "Test Constituency",
+      "europeanElectoralRegion": "Test EER",
+      "region": "Test Region"
+    },
+    {
+      "id": 8888,
+      "postcode": "BT43 6NX",
+      "outcode": "Another Test Outcode",
+      "incode": "Another Test Incode",
+      "quality": 1,
+      "eastings": 310244,
+      "northings": 404838,
+      "country": "Another Test Country",
+      "nhsHealthAuthority": "Another Test Health Authority",
+      "adminDistrict": "Another Test District",
+      "adminWard": "Another Test Ward",
+      "longitude": 8888,
+      "latitude": 8888,
+      "parliamentaryConstituency": "Another Test Constituency",
+      "europeanElectoralRegion": "Another Test EER",
+      "region": "Another Test Region"
+    },
+    {
+      "id": 7777,
+      "postcode": "BT43 3AG",
+      "outcode": "A third Test Outcode",
+      "incode": "A third Test Incode",
+      "quality": 1,
+      "eastings": 310244,
+      "northings": 404838,
+      "country": "A third Test Country",
+      "nhsHealthAuthority": "A third Test Health Authority",
+      "adminDistrict": "A third Test District",
+      "adminWard": "A third Test Ward",
+      "longitude": 7777,
+      "latitude": 7777,
+      "parliamentaryConstituency": "A third Test Constituency",
+      "europeanElectoralRegion": "A third Test EER",
+      "region": "A third Test Region"
+    }
+  ]
+}
